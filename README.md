@@ -1,1 +1,1 @@
-PolytLex+ ver. 1.1.7.2
+PolytLex+ ver. 1.1.8.8
